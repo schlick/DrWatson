@@ -86,7 +86,7 @@ const clueArray = ["CLUE 0",
 
 "One should never attempt to christen, with a bottle full of nitroglycerin.",
 
-"Duke Tailcourt is a well-known collector of original manuscripts.",
+"Duke Tallcourt is a well-known collector of original manuscripts.",
 
 "Mr. Foster and Mr. T. Walton had worked together as partners on a number of inventions.",
 
