@@ -66,7 +66,7 @@ const cases = [
 
 //====CLUE TEXT ARRAY====
 const clueArray = ["CLUE 0",
-"Earl Longworth has constant headaches.",
+"Earl Longworth ___ has constant headaches.",
 
 "The knife in Foster's chest was not thrust by human hands.",
 
@@ -98,7 +98,7 @@ const clueArray = ["CLUE 0",
 
 "The package contained a look-alike replica of the Ziegfield necklace and a note. For text of note, go to Tobacconist.",
 
-"\"SURPRISE\" CLUE (Three parts)<br>III&emsp;More than one <u>sip</u>.",
+"\"SURPRISE\" CLUE (Three parts)<br>III&emsp;More than one <em>sip</em>.",
 
 "WEAPON CLUE (Three Parts)<br>III&emsp;Common name for an urban area.",
 
@@ -112,9 +112,9 @@ const clueArray = ["CLUE 0",
 
 "Sir Bertram Lam pfelt just returned from a recent trip to Paris.",
 
-"WEAPON CLUE (Three Parts)<br>III&emsp;Rhymes with <u>throttle</u>.",
+"WEAPON CLUE (Three Parts)<br>III&emsp;Rhymes with <em>throttle</em>.",
 
-"MOTIVE CLUE (Four Parts)<br>IV&emsp;Past tense of the verb <u>mean</u>.",
+"MOTIVE CLUE (Four Parts)<br>IV&emsp;Past tense of the verb <em>mean</em>.",
 
 "Jonathan Hackett's real name is at the Apothecary.",
 
@@ -134,11 +134,11 @@ const clueArray = ["CLUE 0",
 
 "KILLER CLUE (Two Parts)<br>II&emsp;An arrangement of fruit trees.",
 
-"KILLER CLUE (Two Parts)<br>II&emsp;The opposite of <u>woman</u>.",
+"KILLER CLUE (Two Parts)<br>II&emsp;The opposite of <em>woman</em>.",
 
 "Colonel Sebastian Moran is ar adept hypnotist.",
 
-"CHAMELEON CLUE (Two Parts)<br>II&emsp;Past tense of the verb <u>tread</u>.",
+"CHAMELEON CLUE (Two Parts)<br>II&emsp;Past tense of the verb <em>tread</em>.",
 
 "You got here just in time to stop Boris Crepnick from leaving the country.",
 
@@ -176,7 +176,7 @@ const clueArray = ["CLUE 0",
 
 "MOTIVE CLUE (Four Parts)<br>I&emsp;The alphabet letter after L.",
 
-"\"WHO'S BEHIND IT\" CLUE (Four Parts)<br>I&emsp;The opposite of <u>less</u>.<br>II&emsp;The alphabet letter after D.",
+"\"WHO'S BEHIND IT\" CLUE (Four Parts)<br>I&emsp;The opposite of <em>less</em>.<br>II&emsp;The alphabet letter after D.",
 
 "HIDING PLACE CLUES (Four Parts)<br>II&emsp;The alphabet letter before P.<br>III&emsp;Nickname for Linda.",
 
@@ -192,7 +192,7 @@ const clueArray = ["CLUE 0",
 
 "The killer was a ham radio operator.",
 
-"MOTIVE CLUE (Three Parts)<br>II&emsp;Another word for <u>positive</u> or <u>certain</u>.",
+"MOTIVE CLUE (Three Parts)<br>II&emsp;Another word for <em>positive</em> or <em>certain</em>.",
 
 "MOTIVE CLUE (Four Parts)<br>II&emsp;The sound a bee makes.",
 
@@ -206,13 +206,13 @@ const clueArray = ["CLUE 0",
 
 "Stop at the Newspaper Shop.",
 
-"The original manuscript of <u>Hamlet</u> was stolen recently from an exhibit on the Riviera.",
+"The original manuscript of <em>Hamlet</em> was stolen recently from an exhibit on the Riviera.",
 
 "No clue.",
 
 "GENERAL KILLER & MOTIVE CLUE<br>A little birdie told her.",
 
-"MOTIVE CLUES (Three Parts)<br>I&emsp;The opposite of <u>out</u>.<br>III&emsp;Creatures that love picnics.",
+"MOTIVE CLUES (Three Parts)<br>I&emsp;The opposite of <em>out</em>.<br>III&emsp;Creatures that love picnics.",
 
 "For the past two years, Wellington Bakman has been living way above his means.",
 
@@ -238,7 +238,7 @@ const clueArray = ["CLUE 0",
 
 "The kinetoscope pictures show Sir Hyman, with a blank look on his face, standing over the slain victims at the Thomson mansion, and removing the large diamond from the wall safe.",
 
-"CHAMELEON CLUE (Two Parts)<br>I&emsp;The opposite of <u>more</u>.",
+"CHAMELEON CLUE (Two Parts)<br>I&emsp;The opposite of <em>more</em>.",
 
 "Ridgely was seen talking to Boris Crepnick in the Park the day before Ladder's death.",
 
@@ -250,17 +250,17 @@ const clueArray = ["CLUE 0",
 
 "MOTIVE CLUES (Four Parts)<br>I&emsp;Caesar was a ___.<br>IV&emsp;A large body of salt water.",
 
-"WEAPON CLUE (Three Parts)<br>III&emsp;The opposite of <u>most</u>.",
+"WEAPON CLUE (Three Parts)<br>III&emsp;The opposite of <em>most</em>.",
 
 "The pawnbroker's ticket at the scene of the crime belonged to Sir Reginald Cosgrove.",
 
-"KILLER CLUE (Two Parts)<br>I&emsp;The opposite of <u>front</u>.",
+"KILLER CLUE (Two Parts)<br>I&emsp;The opposite of <em>front</em>.",
 
 "COMPLETE MOTIVE<br>This scheme was hatched as a means of acquiring both the Thomson diamond and the Ziegfield necklace.",
 
 "No clue.",
 
-"KILLER CLUE (Two Parts)<br>I&emsp;The opposite of <u>poor</u>.",
+"KILLER CLUE (Two Parts)<br>I&emsp;The opposite of <em>poor</em>.",
 
 "COMPLETE METHOD OF REMOVAL<br>The plates were carried up the air shaft in human hands.",
 
@@ -358,9 +358,9 @@ const clueArray = ["CLUE 0",
 
 "CODE CLUE<br>O=P",
 
-"KILLER CLUE (Four Parts)<br>I&emsp;The opposite of <u>lose</u>.",
+"KILLER CLUE (Four Parts)<br>I&emsp;The opposite of <em>lose</em>.",
 
-"MOTIVE CLUES (Four Parts)<br>II&emsp;<u>The Merchant ___ Venice</u> (Play)<br>III&emsp;Another name for <u>prostitute</u>.",
+"MOTIVE CLUES (Four Parts)<br>II&emsp;<em>The Merchant ___ Venice</em> (Play)<br>III&emsp;Another name for <em>prostitute</em>.",
 
 "While mopping the Bank floor last Saturday, maintenance man Harvey Willis says he heard a noise like a firecracker which seemed to come from the architects' office next store.",
 
@@ -368,11 +368,11 @@ const clueArray = ["CLUE 0",
 
 "CODE CLUE<br>Z=A<br>X=Y",
 
-"COMPLETE WEAPON CLUES<br>I&emsp;A cylindrical tin container.<br>II&emsp;The opposite of <u>sharp</u> or <u>bright</u>.",
+"COMPLETE WEAPON CLUES<br>I&emsp;A cylindrical tin container.<br>II&emsp;The opposite of <em>sharp</em> or <em>bright</em>.",
 
 "KIDNAPPER CLUE (Three Parts)<br>III&emsp;\"Let him who has not sinned cast the first __",
 
-"KILLER CLUES (Four Parts)<br><u>___'s Well That Ends Well</u> (Play)<br>IV&emsp;A doctor's assistant; usually a woman.",
+"KILLER CLUES (Four Parts)<br><em>___'s Well That Ends Well</em> (Play)<br>IV&emsp;A doctor's assistant; usually a woman.",
 
 "FORTUNE CLUE (Two Parts)<br>I&emsp;Not medium or well done.",
 
@@ -392,7 +392,7 @@ const clueArray = ["CLUE 0",
 
 "KIDNAPPER CLUE (Three Parts)<br>I&emsp;Name for a cowboy's lasso.",
 
-"MOTIVE CLUES (Four Parts)<br>I&emsp;Common name for a blanket or bed quilt.<br>II&emsp;The opposite of <u>down</u>.",
+"MOTIVE CLUES (Four Parts)<br>I&emsp;Common name for a blanket or bed quilt.<br>II&emsp;The opposite of <em>down</em>.",
 
 "KILLER CLUE (Two Parts)<br>II&emsp;A collapsible unit expressly made for sleeping upon.",
 
@@ -420,7 +420,7 @@ const clueArray = ["CLUE 0",
 
 "KILLER CLUE (Four Parts)<br>III&emsp;Completed; finished.",
 
-"WHEREABOUTS CLUE (Three Parts)<br>III&emsp;Sits on water and rhymes with <u>float</u>.",
+"WHEREABOUTS CLUE (Three Parts)<br>III&emsp;Sits on water and rhymes with <em>float</em>.",
 
 "A woman who lives above the Newspaper Shop says she saw three or four men get out of a private carriage in the back alley last Saturday afternoon.",
 
@@ -470,7 +470,7 @@ const clueArray = ["CLUE 0",
 
 "Mr. Dunphy knew that he was not the sole benefactor of his wife's will. In fact, Mrs. Dunphy's will leaves most of her inheritance to charity.",
 
-"MOTIVE CLUE (Four Parts)<br>IV&emsp;To possess something. (Rhymes with <u>moan</u>.)",
+"MOTIVE CLUE (Four Parts)<br>IV&emsp;To possess something. (Rhymes with <em>moan</em>.)",
 
 "Thomas Jones and George Netter were seen drinking at the Pub Saturday afternoon.",
 
@@ -496,7 +496,7 @@ const clueArray = ["CLUE 0",
 
 "No clue.",
 
-"Actress Erin McCann is starring in the current production of <u>The Taming of the Shrew</u>.",
+"Actress Erin McCann is starring in the current production of <em>The Taming of the Shrew</em>.",
 
 "The ground between Scotland Yard and the Bank is composed of rich, black mud.",
 
@@ -538,7 +538,7 @@ const clueArray = ["CLUE 0",
 
 "Manfred Maloney had documents relating to Donald Hobson's disgraceful past.",
 
-"MOTIVE CLUES (Four Parts)<br>III&emsp;The number after <u>one</u>.<br>IV&emsp;The sound a gun makes.",
+"MOTIVE CLUES (Four Parts)<br>III&emsp;The number after <em>one</em>.<br>IV&emsp;The sound a gun makes.",
 
 "Eugene Kane often teased the postman about being tardy with the mail.",
 
@@ -548,7 +548,7 @@ const clueArray = ["CLUE 0",
 
 "WEAPON CLUE (Two Parts)<br>II&emsp;The USSR emblem is the hammer and ___",
 
-"MOTIVE CLUES (Four Parts)<br>I&emsp;The number after <u>nine</u>.<br>II&emsp;The alphabet letter after K.",
+"MOTIVE CLUES (Four Parts)<br>I&emsp;The number after <em>nine</em>.<br>II&emsp;The alphabet letter after K.",
 
 "No clue.",
 
@@ -564,7 +564,7 @@ const clueArray = ["CLUE 0",
 
 "THIEF CLUE (Two Parts)<br>II&emsp;It can be done with a pen or pencil.",
 
-"MOTIVE CLUE (Two Parts)<br>I&emsp;Rhymes with <u>tactical</u>.",
+"MOTIVE CLUE (Two Parts)<br>I&emsp;Rhymes with <em>tactical</em>.",
 
 "GENERAL WEAPON CLUE<br>The weapon is the water.",
 
@@ -574,9 +574,9 @@ const clueArray = ["CLUE 0",
 
 "MOTIVE CLUE (Three Parts)<br>III&emsp;Slang for dice or dominoes.",
 
-"MOTIVE CLUE (Two Parts)<br>II&emsp;Rhymes with <u>bloke</u>.",
+"MOTIVE CLUE (Two Parts)<br>II&emsp;Rhymes with <em>bloke</em>.",
 
-"MOTIVE CLUE (Two Parts)<br>II&emsp;The opposite of <u>female</u>.",
+"MOTIVE CLUE (Two Parts)<br>II&emsp;The opposite of <em>female</em>.",
 
 "No clue.",
 
@@ -588,7 +588,7 @@ const clueArray = ["CLUE 0",
 
 "Alfred Cooke's real name is Donald Hobson.",
 
-"KILLER CLUES (Three Parts)<br>II&emsp;The opposite of <u>less</u>.<br>III&emsp;Henry VIII divorced Katherine to marry ___ Bullen.",
+"KILLER CLUES (Three Parts)<br>II&emsp;The opposite of <em>less</em>.<br>III&emsp;Henry VIII divorced Katherine to marry ___ Bullen.",
 
 "MOTIVE CLUE (Five Parts)<br>V&emsp;When driving a golf ball, most players set the ball on a ___",
 
@@ -598,19 +598,19 @@ const clueArray = ["CLUE 0",
 
 "As British soldiers nearly twenty years ago, Manfred Maloney and Donald Hobson were stationed together in Ireland.",
 
-"WEAPON CLUE (Two Parts)<br>I&emsp;Another word for <u>push</u>. (Rhymes with <u>glove</u>.)",
+"WEAPON CLUE (Two Parts)<br>I&emsp;Another word for <em>push</em>. (Rhymes with <em>glove</em>.)",
 
 "Wilma Farr is innocent.",
 
 "The packing cases did not come open in the crash; nor were they tampered with.",
 
-"KILLER CLUE (Two Parts)<br>II&emsp;The number before <u>eleven</u>.",
+"KILLER CLUE (Two Parts)<br>II&emsp;The number before <em>eleven</em>.",
 
 "No clue.",
 
 "GENERAL KILLER AND MOTIVE CLUE<br>He had them do his dirty work.",
 
-"MOTIVE CLUE (Five Parts)<br>III&emsp;The opposite of <u>out</u>.",
+"MOTIVE CLUE (Five Parts)<br>III&emsp;The opposite of <em>out</em>.",
 
 "Archibald has no scholarly background in archeology.",
 
