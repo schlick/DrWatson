@@ -70,11 +70,11 @@ const clueArray = ["CLUE 0",
 
 "The knife in Foster's chest was not thrust by human hands.",
 
-"KILLER CLUE (Three Parts) III A type of fabric.",
+"KILLER CLUE (Three Parts)<br>III&emsp;A type of fabric.",
 
 "The floor of Silver Patch's stall contained some fresh black paint.",
 
-"MOTIVE CLUE (Four Parts) III The alphabet letter after K.",
+"MOTIVE CLUE (Four Parts)<br>III&emsp;The alphabet letter after K.",
 
 "Colonel Sebastian Moran.",
 
@@ -82,7 +82,7 @@ const clueArray = ["CLUE 0",
 
 "Jules Ridgely purchased some pills to help his severe case of vertigo.",
 
-"WEAPON CLUE (Two Parts) I \"Yo, ho, the man down.\" (Song).",
+"WEAPON CLUE (Two Parts)<br>I&emsp;\"Yo, ho, ___ the man down.\" (Song).",
 
 "One should never attempt to christen, with a bottle full of nitroglycerin.",
 
@@ -98,9 +98,9 @@ const clueArray = ["CLUE 0",
 
 "The package contained a look-alike replica of the Ziegfield necklace and a note. For text of note, go to Tobacconist.",
 
-"\"SURPRISE\" CLUE(Three parts) III More than one sip.",
+"\"SURPRISE\" CLUE (Three parts)<br>III&emsp;More than one <u>sip</u>.",
 
-"WEAPON CLUE (Three Parts) III Common name for an urban area.",
+"WEAPON CLUE (Three Parts)<br>III&emsp;Common name for an urban area.",
 
 "The engraver was dead before the ventilator grating was removed.",
 
@@ -108,13 +108,13 @@ const clueArray = ["CLUE 0",
 
 "Longworth was seen reading a Bible to the victim and Duke Tallcourt the day before the murder.",
 
-"KILLER CLUE (Two Parts) I Up against the ____.",
+"KILLER CLUE (Two Parts)<br>I&emsp;Up against the ____.",
 
 "Sir Bertram Lam pfelt just returned from a recent trip to Paris.",
 
-"WEAPON CLUE (Three Parts) III Rhymes with throttle.",
+"WEAPON CLUE (Three Parts)<br>III&emsp;Rhymes with <u>throttle</u>.",
 
-"MOTIVE CLUE (Four Parts) IV Past tense of the verb mean.",
+"MOTIVE CLUE (Four Parts)<br>IV&emsp;Past tense of the verb <u>mean</u>.",
 
 "Jonathan Hackett's real name is at the Apothecary.",
 
@@ -122,23 +122,23 @@ const clueArray = ["CLUE 0",
 
 "Leopold Hark ness is an undercover agent for British intelligence.",
 
-"MASTERMIND CLUE (Two Parts) I The alphabet letter after 0.",
+"MASTERMIND CLUE (Two Parts)<br>I&emsp;The alphabet letter after 0.",
 
 "A clue to the assassin's identity is at the Newspaper Shop.",
 
-"GENERAL MOTIVE CLUE You can't judge a book by its cover.",
+"GENERAL MOTIVE CLUE<br>You can't judge a book by its cover.",
 
-"KILLER CLUE (Two Parts) II 2,000 pounds (unit of measure).",
+"KILLER CLUE (Two Parts)<br>II&emsp;2,000 pounds (unit of measure).",
 
-"WEAPON CLUE (Three Parts) I Money paid for a service.",
+"WEAPON CLUE (Three Parts)<br>I&emsp;Money paid for a service.",
 
-"KILLER CLUE (Two Parts) II An arrangement of fruit trees.",
+"KILLER CLUE (Two Parts)<br>II&emsp;An arrangement of fruit trees.",
 
-"KILLER CLUE (Two Parts) II The opposite of woman.",
+"KILLER CLUE (Two Parts)<br>II&emsp;The opposite of <u>woman</u>.",
 
 "Colonel Sebastian Moran is ar adept hypnotist.",
 
-"CHAMELEON CLUE (Two Parts) II Past tense of the verb tread.",
+"CHAMELEON CLUE (Two Parts)<br>II&emsp;Past tense of the verb <u>tread</u>.",
 
 "You got here just in time to stop Boris Crepnick from leaving the country.",
 
@@ -150,7 +150,7 @@ const clueArray = ["CLUE 0",
 
 "Mr. Foster and Mrs. Walton were seen whispering to each other in the Hotel lobby the day before the murder.",
 
-"KILLER CLUE (Three Parts) I Not variables.",
+"KILLER CLUE (Three Parts)<br>I&emsp;Not variables.",
 
 "Some fresh silver paint was found on the stall floor of Night Dancer, another of Sir Reginald's horses.",
 
@@ -158,111 +158,111 @@ const clueArray = ["CLUE 0",
 
 "Colonel Sebastian Moran is an associate of the notorious Professor Moriarty.",
 
-"\"SURPRISE\" CLUE (Three Parts) II What the wind does.",
+"\"SURPRISE\" CLUE (Three Parts)<br>II&emsp;What the wind does.",
 
 "A kite and length of copper wire is found on the roof of the Hotel.",
 
-"MASTERMIND CLUE (Two Parts) II Acorpse.",
+"MASTERMIND CLUE (Two Parts)<br>II&emsp;A corpse.",
 
 "A weapon clue is at the Pub.",
 
-"GENERAL WEAPON CLUE The Bible says that if you live by one, you'll die by one.",
+"GENERAL WEAPON CLUE<br>The Bible says that if you live by one, you'll die by one.",
 
 "On the bureau in Mr. Foster's Hotel room, a catapult-like fixture was secretly hooked up to Foster's cigar box.",
 
-"COMPLETE MOTIVE CLUE (Two Parts) I Grownup. II Apples grow on a___",
+"COMPLETE MOTIVE CLUE (Two Parts)<br>I&emsp;Grownup.<br>II&emsp;Apples grow on a ___",
 
 "No clue.",
 
-"MOTIVE CLUE~(Four Parts) I The alphabet letter after L.",
+"MOTIVE CLUE (Four Parts)<br>I&emsp;The alphabet letter after L.",
 
-"\"WHO'S BEHIND IT\" CLUE (Four Parts) I The opposite of less. II The alphabet letter after D.",
+"\"WHO'S BEHIND IT\" CLUE (Four Parts)<br>I&emsp;The opposite of <u>less</u>.<br>II&emsp;The alphabet letter after D.",
 
-"HIDING PLACE CLUES (Four Parts) II The alphabet letter before P. III Nickname for Linda.",
+"HIDING PLACE CLUES (Four Parts)<br>II&emsp;The alphabet letter before P.<br>III&emsp;Nickname for Linda.",
 
-"KILLER CLUE (Two Parts) II A Civil War general.",
+"KILLER CLUE (Two Parts)<br>II&emsp;A Civil War general.",
 
-"KILLER CLUE (Two Parts) II Better you than ___",
+"KILLER CLUE (Two Parts)<br>II&emsp;Better you than ___",
 
 "No clue.",
 
 "Earl Longworth is considered a foremost authority on the authenticity of original manuscripts.",
 
-"MOTIVE CLUES (Four Parts) II The sound a clock makes. III A gelatin dessert.",
+"MOTIVE CLUES (Four Parts)<br>II&emsp;The sound a clock makes. III A gelatin dessert.",
 
 "The killer was a ham radio operator.",
 
-"MOTIVE CLUE (Three Parts) II Another word for positive or certain.",
+"MOTIVE CLUE (Three Parts)<br>II&emsp;Another word for <u>positive</u> or <u>certain</u>.",
 
-"MOTIVE CLUE (Four Parts) II The sound a bee makes.",
+"MOTIVE CLUE (Four Parts)<br>II&emsp;The sound a bee makes.",
 
 "Sir Hyman Pearson is the curator in charge of security at the Museum's international jewel exhibit this weekend.",
 
 "No clue.",
 
-"MOTIVE CLUE (Three Parts) III Specially mixed food for a baby.",
+"MOTIVE CLUE (Three Parts)<br>III&emsp;Specially mixed food for a baby.",
 
-"HIDING PLACE (Two Parts) I The plates are hidden in the hollow bottom. (Part II at the Museum)",
+"HIDING PLACE (Two Parts)<br>I&emsp;The plates are hidden in the hollow bottom. (Part II at the Museum)",
 
 "Stop at the Newspaper Shop.",
 
-"The original manuscript of Hamlet was stolen recently from an exhibit on the Riviera.",
+"The original manuscript of <u>Hamlet</u> was stolen recently from an exhibit on the Riviera.",
 
 "No clue.",
 
-"GENERAL KILLER & MOTIVE CLUE A little birdie told her.",
+"GENERAL KILLER & MOTIVE CLUE<br>A little birdie told her.",
 
-"MOTIVE CLUES (Three Parts) I The opposite of out. III Creatures that love picnics.",
+"MOTIVE CLUES (Three Parts)<br>I&emsp;The opposite of <u>out</u>.<br>III&emsp;Creatures that love picnics.",
 
 "For the past two years, Wellington Bakman has been living way above his means.",
 
-"KILLER CLUE (Two Parts) I Not short.",
+"KILLER CLUE (Two Parts)<br>I&emsp;Not short.",
 
 "The killer is a man.",
 
-"WEAPON CLUE (Three Parts) II Insects who make honey.",
+"WEAPON CLUE (Three Parts)<br>II&emsp;Insects who make honey.",
 
-"KILLER CLUE (Two Parts) I Something that produces an effect.",
+"KILLER CLUE (Two Parts)<br>I&emsp;Something that produces an effect.",
 
-"WEAPON CLUE (Three Parts) III \" ___ Til The Sun Shines, Nellie\" (Song)",
+"WEAPON CLUE (Three Parts)<br>III&emsp;\" ___ Til The Sun Shines, Nellie\" (Song)",
 
 "The Museums jewel exhibit this weekend will feature a rare public showing of the world's most valuable collection of precious stones, the Ziegfield necklace.",
 
 "No clue.",
 
-"MOTIVE CLUE (Three Parts) II A sewer rodent.",
+"MOTIVE CLUE (Three Parts)<br>II&emsp;A sewer rodent.",
 
-"Mario Morelli's monkey kno~s how to use a slingshot.",
+"Mario Morelli's monkey knows how to use a slingshot.",
 
 "The letters before and after N, will give you a clue to who I am. Also the letter before F, And the letters before and after S.",
 
 "The kinetoscope pictures show Sir Hyman, with a blank look on his face, standing over the slain victims at the Thomson mansion, and removing the large diamond from the wall safe.",
 
-"CHAMELEON CLUE (Two Parts) I The opposite of more.",
+"CHAMELEON CLUE (Two Parts)<br>I&emsp;The opposite of <u>more</u>.",
 
 "Ridgely was seen talking to Boris Crepnick in the Park the day before Ladder's death.",
 
-"WEAPON CLUE (Two Parts) II __ With The Wind (Book & Movie)",
+"WEAPON CLUE (Two Parts)<br>II&emsp;___ With The Wind (Book & Movie)",
 
 "There is no clue at the Tobacconist.",
 
-"KILLER CLUE (Two Parts) II Value.",
+"KILLER CLUE (Two Parts)<br>II&emsp;Value.",
 
-"MOTIVE CLUES (Four Parts) I Caesar was a __. IV A large body of salt water.",
+"MOTIVE CLUES (Four Parts)<br>I&emsp;Caesar was a ___.<br>IV&emsp;A large body of salt water.",
 
-"WEAPON CLUE (Three Parts) III The opposite of most.",
+"WEAPON CLUE (Three Parts)<br>III&emsp;The opposite of <u>most</u>.",
 
 "The pawnbroker's ticket at the scene of the crime belonged to Sir Reginald Cosgrove.",
 
-"KILLER CLUE (Two Parts) I The opposite of front.",
+"KILLER CLUE (Two Parts)<br>I&emsp;The opposite of <u>front</u>.",
 
-"COMPLETE MOTIVE This scheme was hatched as a means of acquiring both the Thomson diamond and the Ziegfield necklace.",
+"COMPLETE MOTIVE<br>This scheme was hatched as a means of acquiring both the Thomson diamond and the Ziegfield necklace.",
 
 "No clue.",
 
-"KILLER CLUE (Two Parts) I The opposite of poor.",
+"KILLER CLUE (Two Parts)<br>I&emsp;The opposite of <u>poor</u>.",
 
-"COMPLETE METHOD OF REMOVAL The plates were carried ltp the air shaft in human hands.",
+"COMPLETE METHOD OF REMOVAL<br>The plates were carried up the air shaft in human hands.",
 
 "No clue.",
 
@@ -274,13 +274,13 @@ const clueArray = ["CLUE 0",
 
 "Footprints at the stables show that the killer wore a size 12 shoe.",
 
-"WEAPON CLUE (Three Parts) I Crime doesn't -~",
+"WEAPON CLUE (Three Parts)<br>I&emsp;Crime doesn't ___",
 
-"\"WHO'S BEHIND IT\" CLUE (Four Parts) III The alphabet letter after Q. IV A favorite British beverage.",
+"\"WHO'S BEHIND IT\" CLUE (Four Parts)<br>III&emsp;The alphabet letter after Q.<br>IV&emsp;A favorite British beverage.",
 
-"HIDING PLACE CLUE (Four Parts) I To compete with. IV After J's come _____",
+"HIDING PLACE CLUE (Four Parts)<br>I&emsp;To compete with.<br>IV&emsp;After J's come ___",
 
-"WEAPON CLUE (Three Parts) II Moss grows on the north side of a ____",
+"WEAPON CLUE (Three Parts)<br>II&emsp;Moss grows on the north side of a ___",
 
 "The killer is a native of Africa.",
 
@@ -292,17 +292,17 @@ const clueArray = ["CLUE 0",
 
 "Torchfield bought the cuckoo clock on a recent trip to Switzerland.",
 
-"WEAPON CLUES (Three Parts) I When you have no money, you're flat ____. II The alphabet letter after M.",
+"WEAPON CLUES (Three Parts)<br>I&emsp;When you have no money, you're flat ___.<br>II&emsp;The alphabet letter after M.",
 
 "Both Rita Frawley and Patrick Reardon are left-handed.",
 
 "Upon returning home from 221 B Baker Street, Sir Hyman found a second package waiting for him. To learn its contents, go to the Bank.",
 
-"\"SURPRISE\" CLUE (Three Parts) I The alphabet letter after W.",
+"\"SURPRISE\" CLUE (Three Parts)<br>I&emsp;The alphabet letter after W.",
 
-"WEAPON CLUE (Three Parts) I To vote into office.",
+"WEAPON CLUE (Three Parts)<br>I&emsp;To vote into office.",
 
-"KILLER CLUE (Two Parts) I A swine or glutton.",
+"KILLER CLUE (Two Parts)<br>I&emsp;A swine or glutton.",
 
 "A bit of the bubbly will make him sky high: and if you knew the contents, you d know why!",
 
@@ -330,23 +330,23 @@ const clueArray = ["CLUE 0",
 
 "It was well known to Mr. Foster's friends that he rose early every morning and, before doing anything else, smoked a cigar.",
 
-"KILLER CLUE (Three Parts) II It produces light.",
+"KILLER CLUE (Three Parts)<br>II&emsp;It produces light.",
 
 "Sir Reginald would never kill his prize horse, Silver Patch.",
 
-"WEAPON CLUE (Three Parts) II The sound made by a contented cat.",
+"WEAPON CLUE (Three Parts)<br>II&emsp;The sound made by a contented cat.",
 
-"TEXT OF SECOND NOTE \"Replace the real Ziegfield necklace with this replica and await further instructions. If you fail to do this, we shall contact Scotland Yard and recommend they view the kinetoscope pictures in the Park.\"",
+"TEXT OF SECOND NOTE<br>\"Replace the real Ziegfield necklace with this replica and await further instructions. If you fail to do this, we shall contact Scotland Yard and recommend they view the kinetoscope pictures in the Park.\"",
 
-"GENERAL CLUE The Chameleon expects to see Holmes high strung.",
+"GENERAL CLUE<br>The Chameleon expects to see Holmes high strung.",
 
-"MOTIVE CLUE (Three Parts) I and you shall find.",
+"MOTIVE CLUE (Three Parts)<br>I&emsp;___ and you shall find.",
 
-"HIDING PLACE (Two Parts) II . . . of a Museum display case. (Part I at the Tobacconist)",
+"HIDING PLACE (Two Parts)<br>II&emsp;... of a Museum display case. (Part I at the Tobacconist)",
 
 "No clue.",
 
-"CODE CLUE H=I B=C",
+"CODE CLUE<br>H=I<br>B=C",
 
 "The hunk of candle found by Holmes was from a heavy decorative candle approximately two kilograms (six pounds) in weight. It's safe to assume that a man taking a candle for the purpose of lighting his way, would use a much smaller candle.",
 
@@ -356,89 +356,89 @@ const clueArray = ["CLUE 0",
 
 "The weapon and the courier's valise were thrown overboard.",
 
-"CODE CLUE O=P",
+"CODE CLUE<br>O=P",
 
-"KILLER CLUE (Four Parts) I The opposite of lose.",
+"KILLER CLUE (Four Parts)<br>I&emsp;The opposite of <u>lose</u>.",
 
-"MOTIVE CLUES (Four Parts) II The Merchant __ Venice (Play) III Another name for prostitute.",
+"MOTIVE CLUES (Four Parts)<br>II&emsp;<u>The Merchant ___ Venice</u> (Play)<br>III&emsp;Another name for <u>prostitute</u>.",
 
 "While mopping the Bank floor last Saturday, maintenance man Harvey Willis says he heard a noise like a firecracker which seemed to come from the architects' office next store.",
 
 "Prescott's ship is being repossessed.",
 
-"CODE CLUE Z=A X=Y",
+"CODE CLUE<br>Z=A<br>X=Y",
 
-"COMPLETE WEAPON CLUES I A cylindrical tin container. II The opposite of sharp or bright.",
+"COMPLETE WEAPON CLUES<br>I&emsp;A cylindrical tin container.<br>II&emsp;The opposite of <u>sharp</u> or <u>bright</u>.",
 
-"KIDNAPPER CLUE (Three Parts) III \"Let him who has not sinned cast the first __",
+"KIDNAPPER CLUE (Three Parts)<br>III&emsp;\"Let him who has not sinned cast the first __",
 
-"KILLER CLUES (Four Parts) __ '5 Well That Ends Well (Play) IV doctor's assistant; usually a woman.",
+"KILLER CLUES (Four Parts)<br><u>___'s Well That Ends Well</u> (Play)<br>IV&emsp;A doctor's assistant; usually a woman.",
 
-"FORTUNE CLUE (Two Parts) I Not medium or well done.",
+"FORTUNE CLUE (Two Parts)<br>I&emsp;Not medium or well done.",
 
 "The message contains three words.",
 
-"MOTIVE CLUES (Three Parts) I Another name for a hotel or lodge. II Strands that grow from the scalp.",
+"MOTIVE CLUES (Three Parts)<br>I&emsp;Another name for a hotel or lodge.<br>II&emsp;Strands that grow from the scalp.",
 
-"WHEREABOUTS CLUE (Three Parts) I Bass, trout and perch are ____-",
+"WHEREABOUTS CLUE (Three Parts)<br>I&emsp;Bass, trout and perch are ___",
 
-"KILLER CLUES (Four Parts) II Expression used in golf to warn someone of an oncoming ball. III A portion or section; not the whole thing.",
+"KILLER CLUES (Four Parts)<br>II&emsp;Expression used in golf to warn someone of an oncoming ball.<br>III&emsp;A portion or section; not the whole thing.",
 
 "Holmes noticed a streak of rust between the thumb and forefinger of Captain Prescott's right hand.",
 
-"CODE CLUE K=L",
+"CODE CLUE<br>K=L",
 
 "While Mrs. Dunphy disdained all social activities, Mr. Dunphy yearned for a more active night life.",
 
-"KIDNAPPER CLUE (Three Parts) I Name for a cowboy's lasso.",
+"KIDNAPPER CLUE (Three Parts)<br>I&emsp;Name for a cowboy's lasso.",
 
-"MOTIVE CLUES (Four Parts) I Common name for a blanket or bed quilt. II The opposite of down.",
+"MOTIVE CLUES (Four Parts)<br>I&emsp;Common name for a blanket or bed quilt.<br>II&emsp;The opposite of <u>down</u>.",
 
-"KILLER CLUE (Two Parts) II A collapsible u~t expressly made for sleeping upon.",
+"KILLER CLUE (Two Parts)<br>II&emsp;A collapsible unit expressly made for sleeping upon.",
 
-"CODE CLUE M=N",
+"CODE CLUE<br>M=N",
 
-"KILLER CLUE (Four Parts) IV A famous giant said:\"____ fi fo fuml\"",
+"KILLER CLUE (Four Parts)<br>IV&emsp;A famous giant said:\"___ fi fo fum!\"",
 
-"KIDNAPPER CLUE (Three Parts) II The color of some grapefruit.",
+"KIDNAPPER CLUE (Three Parts)<br>II&emsp;The color of some grapefruit.",
 
 "George Netter had a new house key made on Monday",
 
-"WEAPON CLUE (Two Parts) II Painful twist of a joint.",
+"WEAPON CLUE (Two Parts)<br>II&emsp;Painful twist of a joint.",
 
 "The Eyes of Lucifer were too \"hot\" for Hickel to unload. He still had the precious pearls in his possession when he died.",
 
 "Mrs. Dunphy often argued with her husband about the way he squandered her money.",
 
-"MOTiVE CLUE (Four Parts) I Most wine should be served ____",
+"MOTIVE CLUE (Four Parts)<br>I&emsp;Most wine should be served ___",
 
 "William Skottle, basically an honest man, had for some time been bothered by strong pangs of guilt.",
 
 "Lawyer James Pushkin is an authority on rare coins and stamps.",
 
-"CODE CLUE C=D",
+"CODE CLUE<br>C=D",
 
-"KILLER CLUE (Four Parts) III Completed; finished.",
+"KILLER CLUE (Four Parts)<br>III&emsp;Completed; finished.",
 
-"WHEREABOUTS CLUE (Three Parts) III Sits on water and rhymes with float.",
+"WHEREABOUTS CLUE (Three Parts)<br>III&emsp;Sits on water and rhymes with <u>float</u>.",
 
 "A woman who lives above the Newspaper Shop says she saw three or four men get out of a private carriage in the back alley last Saturday afternoon.",
 
 "No clue.",
 
-"CODE CLUE R=S",
+"CODE CLUE<br>R=S",
 
 "Where a seated man will always cross his legs to catch a thrown object in his lap, a seated woman will usually spread her legs apart to catch the object in her skirt.",
 
 "Harriet Pinkston has worked as a governess and nanny for nearly twenty years.",
 
-"MOTIVE CLUES (Four Parts) III Niagara IV Discs you play on a phonograph.",
+"MOTIVE CLUES (Four Parts)<br>III&emsp;Niagara ___<br>IV&emsp;Discs you play on a phonograph.",
 
-"KILLER CLUE (Two Parts) I A button on machinery might read this.",
+"KILLER CLUE (Two Parts)<br>I&emsp;A button on machinery might read this.",
 
 "No clue.",
 
-"Mrs. Dun phy has a gardener named Winthrop Capp.",
+"Mrs. Dunphy has a gardener named Winthrop Capp.",
 
 "Harriet Pinkston's husband, Carl Pinkston, is a fisherman.",
 
@@ -446,11 +446,11 @@ const clueArray = ["CLUE 0",
 
 "There is no blood on the walking stick.",
 
-"WEAPON CLUE (Two Parts) I A jungle creature whojikes bananas.",
+"WEAPON CLUE (Two Parts)<br>I&emsp;A jungle creature who likes bananas.",
 
-"CODE CLUE D=E",
+"CODE CLUE<br>D=E",
 
-"Holmes noticed that Mrs: Dunphy was wearing no wedding ring; nor was there a ring mark on any of her fingers.",
+"Holmes noticed that Mrs Dunphy was wearing no wedding ring; nor was there a ring mark on any of her fingers.",
 
 "No clue.",
 
@@ -458,9 +458,9 @@ const clueArray = ["CLUE 0",
 
 "The message tells where the Eyes of Lucifer are hidden.",
 
-"MOTIVE CLUE (Three Parts) III BoyScoutsknowhowtopitch",
+"MOTIVE CLUE (Three Parts)<br>III&emsp;Boy Scouts know how to pitch ___",
 
-"WHEREABOUTS CLUE (Three Parts) II \" a song of sixpence\"",
+"WHEREABOUTS CLUE (Three Parts)<br>II&emsp;\"___ a song of sixpence\"",
 
 "The carpet in Thomas Jones' office contains two freshly cleaned spots. One of them has the slight smell of beer.",
 
@@ -470,53 +470,53 @@ const clueArray = ["CLUE 0",
 
 "Mr. Dunphy knew that he was not the sole benefactor of his wife's will. In fact, Mrs. Dunphy's will leaves most of her inheritance to charity.",
 
-"MOTIVE CLUE (Four Parts) IV To possess something. (Rhymes with moan.)",
+"MOTIVE CLUE (Four Parts)<br>IV&emsp;To possess something. (Rhymes with <u>moan</u>.)",
 
 "Thomas Jones and George Netter were seen drinking at the Pub Saturday afternoon.",
 
 "Holmes has the fortune in his pocket.",
 
-"CODE CLUE O=R",
+"CODE CLUE<br>O=R",
 
-"KILLER CLUE (Four Parts) II A rolling gathers no moss.",
+"KILLER CLUE (Four Parts)<br>II&emsp;A rolling ___ gathers no moss.",
 
 "Harriet Pinkston is not able to have a baby of her own.",
 
 "Arthur Kendrick smokes Turkish cigars.",
 
-"FORTUNE CLUE (Two Parts) II Necessary to mail a letter.",
+"FORTUNE CLUE (Two Parts)<br>II&emsp;Necessary to mail a letter.",
 
-"Holmes knows that any person actually involved in~he Erse Kernes would use the old Gaelic spelling of Ireland-ER U-instead of ERIN.",
+"Holmes knows that any person actually involved in the Erse Kernes would use the old Gaelic spelling of Ireland-ERIU-instead of ERIN.",
 
 "The clothes of the three victims had a dank smell, not unlike that found in a boiler room.",
 
-"MOTIVE CLUES (Five Parts) I The number after nine. II A track of grassland; especially in the Western USA.",
+"MOTIVE CLUES (Five Parts)<br>I&emsp;The number after nine.<br>II&emsp;A track of grassland; especially in the Western USA.",
 
-"THIEF CLUE (Two Parts) I A part of the foot.",
+"THIEF CLUE (Two Parts)<br>I&emsp;A part of the foot.",
 
 "No clue.",
 
-"Actress Erin McCann is starring in the current production of The Taming el the Shrew.",
+"Actress Erin McCann is starring in the current production of <u>The Taming of the Shrew</u>.",
 
 "The ground between Scotland Yard and the Bank is composed of rich, black mud.",
 
 "Clara Wexier is innocent.",
 
-"HIDING PLACE CLUE (Two Parts) I One of four in a deck of cards.",
+"HIDING PLACE CLUE (Two Parts)<br>I&emsp;One of four in a deck of cards.",
 
 "No clue.",
 
-"MOTIVE CLUE (Two Parts) I The darkest color in the spectrum.",
+"MOTIVE CLUE (Two Parts)<br>I&emsp;The darkest color in the spectrum.",
 
-"The largest shipment of gold ever to reach London will arrive later this month for storage in the Ban k~vauIt.",
+"The largest shipment of gold ever to reach London will arrive later this month for storage in the Bank vault.",
 
 "Myra Hyatt is innocent.",
 
-"MOTIVE CLUE (Three Parts) II Missing vowel in A, I, 0, U.",
+"MOTIVE CLUE (Three Parts)<br>II&emsp;Missing vowel in A, I, O, U.",
 
 "The shot that killed Tom Dayton was fired from outside the porthole.",
 
-"COMPLETE KILLER CLUE A person who prepares food.",
+"COMPLETE KILLER CLUE<br>A person who prepares food.",
 
 "Attached to the rear of the Scotland Yard building, is an abandoned bungalow which has a deep cellar and boiler room.",
 
@@ -526,29 +526,29 @@ const clueArray = ["CLUE 0",
 
 "Only one bullet was fired from Stanley Bosworth's revolver.",
 
-"WEAPON CLUE (Two Parts) I Cyclops had only one of these.",
+"WEAPON CLUE (Two Parts)<br>I&emsp;Cyclops had only one of these.",
 
 "There is a KILLER CLUE at the Newspaper Shop.",
 
-"COMPLETE WEAPON CLUES I A is the first ~~of the alphabet. II The first ball game of the season is known as the season",
+"COMPLETE WEAPON CLUES<br>I&emsp;A is the first ___ of the alphabet.<br>II&emsp;The first ball game of the season is known as the season",
 
-"HIDING PLACE CLUE (Two Parts) II Belongs to Kay.",
+"HIDING PLACE CLUE (Two Parts)<br>II&emsp;Belongs to Kay.",
 
 "Although everyone on the yacht heard two shots, Tom Dayton had only one bullet in his forehead.",
 
 "Manfred Maloney had documents relating to Donald Hobson's disgraceful past.",
 
-"MOTIVE CLUES (Four Parts) III Thenumberafterone. IV The sound a gun makes.",
+"MOTIVE CLUES (Four Parts)<br>III&emsp;The number after <u>one</u>.<br>IV&emsp;The sound a gun makes.",
 
 "Eugene Kane often teased the postman about being tardy with the mail.",
 
-"MOTIVE CLUE (Three Parts) I Nickname for Alexander Graham Bell's best known invention.",
+"MOTIVE CLUE (Three Parts)<br>I&emsp;Nickname for Alexander Graham Bell's best known invention.",
 
 "Doctor Peerpoint reveals that Tom Dayton was terminally ill, with only a few weeks to live.",
 
-"WEAPON CLUE (Two Parts) II The USSR emblem is the hammer and ___",
+"WEAPON CLUE (Two Parts)<br>II&emsp;The USSR emblem is the hammer and ___",
 
-"MOTIVE CLUES (Four Parts) I The number after nine. II The alphabet letter after K.",
+"MOTIVE CLUES (Four Parts)<br>I&emsp;The number after <u>nine</u>.<br>II&emsp;The alphabet letter after K.",
 
 "No clue.",
 
@@ -558,25 +558,25 @@ const clueArray = ["CLUE 0",
 
 "While stationed in Ireland years ago, Donald Hobson was dishonorably discharged from the British military for illegal mistreatment of civilians.",
 
-"KILLER CLUE (Three Parts) I A seed of corn.",
+"KILLER CLUE (Three Parts)<br>I&emsp;A seed of corn.",
 
 "Grant Evans, the postman who services Mrs. Farr's neighborhood, is often late and often leaves mail at the wrong addresses.",
 
-"THIEF CLUE (Two Parts) II It can be done with a pen or pencil.",
+"THIEF CLUE (Two Parts)<br>II&emsp;It can be done with a pen or pencil.",
 
-"MOTIVE CLUE (Two Parts) I Rhymes with tactical.",
+"MOTIVE CLUE (Two Parts)<br>I&emsp;Rhymes with <u>tactical</u>.",
 
-"GENERAL WEAPON CLUE The weapon is the water.",
+"GENERAL WEAPON CLUE<br>The weapon is the water.",
 
-"WEAPON CLUE (Two Parts) II The alphabet letter after K.",
+"WEAPON CLUE (Two Parts)<br>II&emsp;The alphabet letter after K.",
 
-"MOTIVE CLUE (Five Parts) IV Claus",
+"MOTIVE CLUE (Five Parts)<br>IV&emsp;___ Claus",
 
-"MOTIVE CLUE (Three Parts) III Slang for dice or dominoes.",
+"MOTIVE CLUE (Three Parts)<br>III&emsp;Slang for dice or dominoes.",
 
-"MOTIVE CLUE (Two Parts) II Rhymes with bloke.",
+"MOTIVE CLUE (Two Parts)<br>II&emsp;Rhymes with <u>bloke</u>.",
 
-"MOTIVE CLUE (Two Parts) II The opposite of female.",
+"MOTIVE CLUE (Two Parts)<br>II&emsp;The opposite of <u>female</u>.",
 
 "No clue.",
 
@@ -588,9 +588,9 @@ const clueArray = ["CLUE 0",
 
 "Alfred Cooke's real name is Donald Hobson.",
 
-"KILLER CLUES (Three Parts) II The opposite of less. III Henry VIII divorced Katherine to marry Bullen.",
+"KILLER CLUES (Three Parts)<br>II&emsp;The opposite of <u>less</u>.<br>III&emsp;Henry VIII divorced Katherine to marry ___ Bullen.",
 
-"MOTIVE CLUE (Five Parts) V When driving a golf ball, most players set the ball on a",
+"MOTIVE CLUE (Five Parts)<br>V&emsp;When driving a golf ball, most players set the ball on a ___",
 
 "Heelwright's greatest desire is to make some notable archeological discovery during his lifetime.",
 
@@ -598,23 +598,23 @@ const clueArray = ["CLUE 0",
 
 "As British soldiers nearly twenty years ago, Manfred Maloney and Donald Hobson were stationed together in Ireland.",
 
-"WEAPON CLUE (Two Parts) I Another word for push. (Rhymes with glove.)",
+"WEAPON CLUE (Two Parts)<br>I&emsp;Another word for <u>push</u>. (Rhymes with <u>glove</u>.)",
 
 "Wilma Farr is innocent.",
 
-"The packing cases die not come open in th~ crash; nor were they tampered with.",
+"The packing cases did not come open in the crash; nor were they tampered with.",
 
-"KILLER CLUE (Two Parts) II The number before eleven.",
+"KILLER CLUE (Two Parts)<br>II&emsp;The number before <u>eleven</u>.",
 
 "No clue.",
 
-"GENERAL KILLER AND MOTIVE CLUE He had them do his dirty work.",
+"GENERAL KILLER AND MOTIVE CLUE<br>He had them do his dirty work.",
 
-"MOTIVE CLUE (Five Parts) III The opposite of out.",
+"MOTIVE CLUE (Five Parts)<br>III&emsp;The opposite of <u>out</u>.",
 
 "Archibald has no scholarly background in archeology.",
 
-"KILLER CLUE (Two Parts) I Partofamonth.",
+"KILLER CLUE (Two Parts)<br>I&emsp;Part of a month.",
 
 "In the photograph, Maloney is smoking his pipe with his left hand.",
 
